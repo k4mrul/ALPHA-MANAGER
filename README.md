@@ -1,4 +1,5 @@
-﻿----
+﻿Source: https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ALPHA
+----
 
 ⚠️ Project Status: Discontinued ⚠️
 
